@@ -12,8 +12,8 @@ categories:
 ---
 
 {{< siteParamsRecentPostsTitle >}} 
-
 {{< my2buildtime "buildtime 创建时间" >}}
+{{< my2linktextonly link="/time/001/" cn=" 全球不同地区时间 " >}}
 
 {{< mydiv4o link="https://ytxwz1.chinadsf.org/"   text="ytxwz1   樱桃小丸子粤语版第二季 ">}}
 {{< mydiv4o link="https://ytxwz2.chinadsf.org/"   text="ytxwz2   樱桃小丸子粤语版第二季 ">}}
